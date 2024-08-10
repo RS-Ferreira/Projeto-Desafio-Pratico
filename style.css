@@ -1,0 +1,135 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family:"Open Sans", sans-serif; 
+  color: #333;
+  background-color: #f5f4f0;
+}
+
+#page {
+  width: 1120px;
+  margin: 0 auto;
+  padding: 80px 80px 0px;
+}
+
+h6 {
+font-size: 16px;
+color: #E1624F;
+margin-bottom: 8px;
+}
+
+header, h1 {
+font-size: 36px;
+font-weight: bold;
+counter-reset: #1B1B1B;
+
+margin-bottom: 44px;
+}
+
+.Templo_H  h6 {
+  margin-bottom: 2px;
+}
+
+#Busan, img {
+  width: 100%;
+  margin-bottom: 24px;
+}
+
+#Busan p {
+  font-size: 16px;
+  font-style: italic;
+  color: #333333;
+
+  text-align: center;
+  margin-bottom: 44px;
+}
+
+.line {
+  width: 100%;
+  border: 1px solid #D9D9D9;
+
+  margin-bottom: 64px;
+}
+
+.Templo_H h1 {
+  font-size: 32px;
+  margin-bottom: 8px;
+}
+
+.Templo_H, p {
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+ 
+  width: 1120px;
+
+  margin-bottom: 64px;
+}
+
+.Templo_H img {
+  margin-bottom:20px ;
+}
+
+h2 {
+  font-size: 28px;
+  font-style: bold;
+
+  margin-bottom: 4px;
+}
+#Destinos  #list {
+  margin-bottom: 20PX;
+}
+
+
+span, li {
+  font-size: 16px;
+  font-weight: bold;
+
+  margin-bottom: 4px;
+}
+
+ul,li {
+  margin: 0 0 48px 14px;
+}
+
+.Parque_Y, li {
+  margin-bottom: 0;
+}
+.Casais {
+  color: #591B98 ;
+}
+
+.Família {
+color: #E5245E;
+}
+
+.Orçamento {
+color: #E95E10;
+}
+
+.line_2 { 
+  width: 100%;
+  border: 1px solid #D9D9D9;
+
+  margin: 40px 0;
+}
+
+.heart {
+  width: 16px;
+  margin: 6px;
+ vertical-align: middle;
+}
+
+footer {
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+.cosmopolito {
+  font-weight: normal;
+  margin-left: 450px;
+  
+}
