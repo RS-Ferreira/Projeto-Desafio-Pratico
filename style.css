@@ -95,6 +95,11 @@ ul,li {
   margin: 0 0 48px 14px;
 }
 
+.história, a {
+color: #0C51A7;
+text-decoration: none;
+}
+
 .Parque_Y, li {
   margin-bottom: 0;
 }
